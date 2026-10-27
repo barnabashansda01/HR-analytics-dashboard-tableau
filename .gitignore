@@ -1,0 +1,39 @@
+# Tableau
+*.tde
+*.hyper
+*.tdsx.bak
+*.twbx.bak
+*.twb.bak
+Extracts/
+Data/Extracts/
+Tableau Repository/Logs/
+*.log
+
+# Local / temporary data
+*.tmp
+*.temp
+~$*
+.~lock.*
+
+# Excel / office temp files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Python (if you add notebooks or scripts)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
